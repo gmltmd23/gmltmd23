@@ -13,7 +13,7 @@
   <a><img src="https://img.shields.io/badge/-C-gray?style=flat-square&logo=C&logoColor=white"/></a>&nbsp<br>
   <a><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-Win API-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
-  <a><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
