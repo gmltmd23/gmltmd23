@@ -14,6 +14,7 @@
   <a><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-Win API-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
