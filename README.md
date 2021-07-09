@@ -9,7 +9,7 @@
   <a><img src="https://img.shields.io/badge/Java-E3622F?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-C-gray?style=flat-square&logo=C&logoColor=white"/></a>&nbsp<br>
-  <a><img src="https://img.shields.io/badge/-Kotlin-yellow?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
