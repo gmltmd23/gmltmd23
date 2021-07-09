@@ -20,6 +20,7 @@
 
 
 <h3 align = "center">🤔 How to contact me?</h3>
+<h4 align = "center">Email : yuni0822__@naver.com</h4><br>
 
 <!--
 **gmltmd23/gmltmd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
