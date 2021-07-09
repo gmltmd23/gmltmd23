@@ -7,6 +7,7 @@
 <p align = "center">
   <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Java-E3622F?style=flat-square&logo=Java&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C++010101?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 </p>
 
 <!--
