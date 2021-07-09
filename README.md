@@ -22,7 +22,6 @@
 
 <h3 align = "center">🤔 How to contact me?</h3>
 <h4 align = "center">Email : yuni0822__@naver.com</h4>
-<h4 align = "center">test</h4>
 <p align = "center">
   <a href = https://www.instagram.com/y_hehe_><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
