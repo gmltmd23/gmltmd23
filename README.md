@@ -4,7 +4,7 @@
 
 <h3 align = "center">✨ TECH STACK ✨</h3>
 
-<h4 align = "center">Languages & Techs that I've experienced at least once.</h4>
+<h4 align = "center">Languages & Techs that I've experienced at least once.</h4><br>
 
 <p align = "center">
   <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
