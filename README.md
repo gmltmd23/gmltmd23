@@ -22,6 +22,11 @@
 
 <h3 align = "center">🤔 How to contact me?</h3>
 <h4 align = "center">Email : yuni0822__@naver.com</h4>
+<h4 algin = "center">
+  Instagram : <a href = https://https://www.instagram.com/y_hehe_>
+                  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+              </a>
+</h4>
 
 <!--
 **gmltmd23/gmltmd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
