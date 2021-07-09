@@ -11,7 +11,7 @@
   <a><img src="https://img.shields.io/badge/Java-E3622F?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-C-gray?style=flat-square&logo=C&logoColor=white"/></a>&nbsp<br>
-  <a><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/-Kotlin-FF4747?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-Win API-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
