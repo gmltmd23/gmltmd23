@@ -2,8 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YounHeeSeung&fontSize=70&fontColor=auto)
 
-<h3 align = "center">✨TECH STACK</h3>
-### Hi there 👋
+### Hi there👋 My name is Youn Hee Seung.
+### Let me introduce myself!
+
+<h3 align = "center">✨ TECH STACK ✨</h3>
+
 
 <!--
 **gmltmd23/gmltmd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
