@@ -6,7 +6,7 @@
 
 <p align = "center">
   <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=#FF6550"/></a>
+  <a><img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=orange"/></a>
 </p>
 
 <!--
