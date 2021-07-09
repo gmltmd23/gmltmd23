@@ -16,6 +16,7 @@
   <a><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
+<br>
 
 
 <h3 align = "center">🤔 How to contact me?</h3>
