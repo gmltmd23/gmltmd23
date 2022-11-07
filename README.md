@@ -25,6 +25,7 @@
 <p align = "center">
   <a href = https://www.instagram.com/y_hehe_><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href = https://yuni0822.tistory.com><img src="https://img.shields.io/badge/Tistory-Blog-orange"/></a>
+  <a href = https://www.notion.so/9a3f0ed8e28a4feead514282bf2a8a8c><img src="https://img.shields.io/badge/Notion-Portfolio-brightgreen"/></a>
 </p>
 
 <!--
