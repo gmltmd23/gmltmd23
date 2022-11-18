@@ -11,7 +11,6 @@
   <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-Kotlin-FF4747?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <a><img src="https://img.shields.io/badge/-C-gray?style=flat-square&logo=C&logoColor=white"/></a>&nbsp<br>
   <a><img src="https://img.shields.io/badge/-Win API-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
